@@ -1,4 +1,9 @@
 # Change Shirt using Computer Vision
+<img width="436" alt="Screen Shot 2023-12-04 at 3 19 40 AM" src="https://github.com/AYoussef00/ChangeClothes--Computer-Vision/assets/33284639/3af4139d-a87f-4061-b769-e612e183c11b">
+
+
+
+
 
 ## Overview
 The "Change Shirt" project is a Python application that utilizes computer vision to dynamically change a person's shirt in real-time using a webcam. The application tracks key points on the user's upper body and overlays different shirt designs based on user gestures.
